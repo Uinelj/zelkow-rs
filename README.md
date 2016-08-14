@@ -1,6 +1,8 @@
 ? (don't have a name yet)
 ========
 
+__Please see [Gitlab](https://gitlab.com/MonsieurOenologue/Zelkow) for the updated version. This is just a clone.__
+
 Installation
 ============
 
