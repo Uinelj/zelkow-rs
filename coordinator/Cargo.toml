@@ -1,0 +1,11 @@
+[package]
+name = "coordinator"
+version = "0.1.0"
+authors = ["uj <aulien.jbadji@gmail.com>"]
+
+[dependencies]
+zilean = {path= '../zilean/'}
+nickel = "*"
+serde_json = "0.7.4"
+slog = "*"
+slog-term = "*"
